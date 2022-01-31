@@ -1,4 +1,4 @@
-# pacmanexercise
+# PacMan Exercise
 
 MIT xPro PacMan Exercise
 
